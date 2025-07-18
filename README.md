@@ -99,12 +99,18 @@ Which product category had the highest sales?
               Group By Product_Category
               Order By TotalSales Desc
 
+The product category with the highest sales is Technology
+
+
+
+
 
 
 
               
 
 
+<img width="938" height="404" alt="Image3" src="https://github.com/user-attachments/assets/b347703c-4dea-448d-9330-4f1943e728b8" />
 
 
 
