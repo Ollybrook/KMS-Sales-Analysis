@@ -35,6 +35,7 @@ Checking for null values in "PROFIT, PRODUCT BASE MARGIN and UNIT PRICE COLUMNS"
 
 
 
+<img width="940" height="402" alt="Image1" src="https://github.com/user-attachments/assets/b5286832-be24-4275-bd0b-d3fe6bf7e846" />
 
 
 
