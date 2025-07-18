@@ -83,7 +83,10 @@ The following Queries wrere used in Extracting the above KPIs
 
 
 
+
+
  
+<img width="955" height="408" alt="Image2" src="https://github.com/user-attachments/assets/77413fd1-b0cc-4b90-9b96-12aa7ff8495c" />
 
 
               
