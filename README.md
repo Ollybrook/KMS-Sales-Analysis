@@ -159,6 +159,8 @@ Determining the Total sales of appliances in Ontario
           where Product_Category = 'Appliances'
           And Region = 'Ontario'
 
+ They were no Sales of Appliances made in Ontario
+
 
 
 
