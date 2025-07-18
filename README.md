@@ -304,3 +304,21 @@ Top 1
           Order By Total_Orders Desc
 
 
+
+          Top 1 Corporate Customer with the Highest Order is Adam Hart with 27 Orders.
+
+
+
+
+          
+
+
+          
+
+
+          
+
+          <img width="960" height="405" alt="Image14" src="https://github.com/user-attachments/assets/733cbea5-0675-4d68-beea-da6949cd02df" />
+
+
+
