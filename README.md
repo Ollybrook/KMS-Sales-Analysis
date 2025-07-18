@@ -271,4 +271,4 @@ Small Business Customer
 
 
           
-<img width="956" height="402" alt="Image11" src="https://github.com/user-attachments/assets/8cb9264e-685d-4c9a-a9b1-d063af209162" />
+<img width="960" height="407" alt="Image12" src="https://github.com/user-attachments/assets/81788506-3ec9-4a9d-80ee-1381311e0ba7" />
