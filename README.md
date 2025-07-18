@@ -39,6 +39,18 @@ Checking for null values in "PROFIT, PRODUCT BASE MARGIN and UNIT PRICE COLUMNS"
 
 Replacing the Null Values with Mean
 
+              update [KMS Sql Case Study]
+              Set Profit = 181.18
+              where Profit is NULL
+              
+              update [KMS Sql Case Study]
+              Set Unit_Price = 89.35
+              where Unit_Price is NULL
+              
+              update [KMS Sql Case Study]
+              Set Product_Base_Margin = 0.51
+              where Product_Base_Margin is NULL
+
 
 
 
