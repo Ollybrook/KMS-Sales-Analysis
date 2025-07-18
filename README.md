@@ -55,6 +55,25 @@ Replacing the Null Values with Mean
 
  **Analysis Tasks & Business Questions Addressed (Applying SQL Skills from DSA Data Analysis class):**
 
+ Key Performance Indicators (KPIs)
+Total Sales ₦ 14,915,600.83
+
+Total Shippimg Cost ₦ 107,831.04
+
+Total Profit ₦ 1,537,521.02
+
+Total Discount ₦ 417.19
+
+Total Unit Price ₦ 751442.43
+
+Total Orders 8399
+
+Total Product Base Margin ₦ 4,304.44
+
+The following Queries wrere used the Extract the above KPIs
+
+
+
  
 
 
