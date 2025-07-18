@@ -239,5 +239,11 @@ Determining the Highest shipping cost by shipping method
 
   Top 10 most valuable Customer
 
+              Select * from [KMS Sql Case Study]
+            Select Top 10 Customer_Name, Product_Name, Sum(Sales) As Total_Spent
+            From [KMS Sql Case Study]
+            Group By Customer_Name, Product_Name
+            Order By Total_Spent Desc
+
     
 
