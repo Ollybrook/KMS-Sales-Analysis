@@ -27,6 +27,10 @@ The Data was transformed using SQL Server, changing inappropriate data types (co
 
 Checking for null values in "PROFIT, PRODUCT BASE MARGIN and UNIT PRICE COLUMNS"
 
+              select * from [KMS Sql Case Study]
+              Where Product_Base_Margin Is NULL Or Profit is NULL Or
+              Unit_Price is NULL
+
 **Analysis Tasks & Business Questions Addressed (Applying SQL Skills from DSA Data Analysis class):**
 **Case Scenario I:**
 
