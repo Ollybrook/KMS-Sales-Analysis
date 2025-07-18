@@ -208,6 +208,8 @@ Determining the Highest shipping cost by shipping method
       From [KMS Sql Case Study]
       Order by Shipping_Cost Desc
 
+      The Highest Cost Shipping Methoed is Delivery Truck.
+
 
       
 
