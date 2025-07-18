@@ -70,7 +70,16 @@ Total Orders 8399
 
 Total Product Base Margin ₦ 4,304.44
 
-The following Queries wrere used the Extract the above KPIs
+The following Queries wrere used in Extracting the above KPIs
+
+              Select Sum(Sales) As Total_Sales,
+              Count(Order_ID) As Total_Orders,
+              Sum(Profit) As Total_Profit,
+              Sum(Shipping_Cost) As Total_Shipping_Cost,
+              Sum(Discount) As Total_Discount,
+              Sum(Unit_Price) As Total_Unit_Price,
+              Sum(Product_Base_Margin) As Toatl_Product_Base_Margin
+              From [KMS Sql Case Study]
 
 
 
