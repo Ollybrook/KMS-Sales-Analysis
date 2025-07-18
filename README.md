@@ -136,6 +136,8 @@ What are the Top 3 and Bottom 3 regions in terms of sales?
 
 ![Uploading Image4.png…]()
 
+Bottom 3 Region by Sales
+
 
 
 
