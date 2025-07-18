@@ -154,6 +154,11 @@ Bottom 3 Region by Sales
 
 Determining the Total sales of appliances in Ontario
 
+          Select Sum(Sales) As TotalSales
+          From [KMS Sql Case Study]
+          where Product_Category = 'Appliances'
+          And Region = 'Ontario'
+
 
 
 
