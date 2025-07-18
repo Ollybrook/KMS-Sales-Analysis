@@ -138,6 +138,11 @@ What are the Top 3 and Bottom 3 regions in terms of sales?
 
 Bottom 3 Region by Sales
 
+            Select top 3 Region, Sum(Sales) As TotalSales
+            From [KMS Sql Case Study]
+            Group By Region
+            Order By TotalSales Asc
+
 
 
 
