@@ -1,5 +1,6 @@
 # KMS-Sales-Analysis
 Analysis of Kultra Mega Stores' order data (2009-2012) for strategic insights.").
+
 Introduction/Overview
 
 This project involves a comprehensive business intelligence analysis of Kultra Mega Stores' (KMS) order data from 2009 to 2012. As a Business Intelligence Analyst supporting the Abuja division, the goal is to extract key insights and findings to inform strategic decisions related to product categories, regional performance, customer segmentation, and shipping efficiency.
