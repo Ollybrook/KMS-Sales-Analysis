@@ -253,3 +253,6 @@ Determining the Highest shipping cost by shipping method
     
 
 <img width="946" height="410" alt="Image10" src="https://github.com/user-attachments/assets/71d8574c-c3fa-42fb-b1b2-bca6e486e4d9" />
+
+
+Small Business Customer with the highest Sales
