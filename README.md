@@ -258,3 +258,10 @@ Determining the Highest shipping cost by shipping method
 Small Business Customer with the highest Sales
 
 Small Business Customer
+
+
+          SELECT Top 1 Customer_Name, SUM(Sales) AS Total_sales
+          FROM [KMS Sql Case Study]
+          WHERE Customer_Segment = 'Small Business'
+          GROUP BY Customer_Name
+          ORDER BY Total_sales DESC
