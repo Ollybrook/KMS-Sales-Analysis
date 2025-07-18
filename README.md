@@ -8,8 +8,18 @@ Problem Statement/Business Objective
 **Objective:** Analyze historical order data (2009-2012) to identify sales trends, customer behavior patterns, shipping cost efficiencies, and provide actionable recommendations for revenue growth and operational improvement in the Abuja division.
 Dataset Description
 **Dataset:** `kms_order_data.xlsx`
-*Source:** Internal order data from Kultra Mega Stores.
+*Source:** The data for this project is gotten from Digital SkillUp African (DSA) Learning Management System as part of our final Project..
 **Period:** 2009 - 2012.
+**Content:** Contains information on orders, products (e.g., category), customers (e.g., segment), regions, sales figures, shipping costs, and order priority.
+Analysis Tasks Performed (Case Scenarios)
+**Analysis Tasks & Business Questions Addressed (Applying SQL Skills from DSA Data Analysis class):**
+**Case Scenario I:**
+Which product category had the highest sales?
+
+
+
+
+
 
     
 
