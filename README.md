@@ -209,8 +209,12 @@ Determining the Highest shipping cost by shipping method
       Order by Shipping_Cost Desc
 
 
+      
 
 
+
+
+<img width="953" height="403" alt="Image8" src="https://github.com/user-attachments/assets/bf5acff3-d093-4fc0-b86f-357dda846b8e" />
 
 
 
