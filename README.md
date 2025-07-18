@@ -322,6 +322,15 @@ Top 1
  Top 5 Corperate customer that placed the most number of orders in 2009 - 2012
 
 
+
+           Select Top 5 Customer_Name, Count(Order_ID) As Total_Orders
+          From [KMS Sql Case Study]
+          WHERE Customer_Segment = 'Corporate'
+          And Order_Date Between '2009-01-01' and '2012-12-31'
+          Group By Customer_Name
+          Order By Total_Orders Desc
+
+
           
 
 
