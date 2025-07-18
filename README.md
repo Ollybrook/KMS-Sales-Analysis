@@ -221,6 +221,11 @@ Determining the Highest shipping cost by shipping method
 
   Top 1
 
+
+        Select Top 1 Ship_Mode, Shipping_Cost
+      From [KMS Sql Case Study]
+      Order by Shipping_Cost Desc
+
   
 
 
