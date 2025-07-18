@@ -168,12 +168,9 @@ Determining the Total sales of appliances in Ontario
 
 
 
-Determining the bottom 10 customers by Sales
 
-        SELECT Top 10 customer_name, SUM(sales) AS total_sales
-        FROM [KMS Sql Case Study]
-        GROUP BY customer_name
-        ORDER BY total_sales ASC
+
+        
 
 
 
@@ -184,7 +181,7 @@ Determining the bottom 10 customers by Sales
 
 
 
-![Image6ii](https://github.com/user-attachments/assets/861736cb-da97-4104-944c-04d3ea623401)
+
 <img width="950" height="406" alt="Image6i" src="https://github.com/user-attachments/assets/41cdd127-a1a4-4444-993e-99179bbba586" />
 <img width="945" height="404" alt="Image7" src="https://github.com/user-attachments/assets/093beffb-ec85-4506-bac2-1eeb20009915" />
 
