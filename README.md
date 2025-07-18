@@ -183,6 +183,15 @@ Determining the Total sales of appliances in Ontario
 
 
 <img width="950" height="406" alt="Image6i" src="https://github.com/user-attachments/assets/41cdd127-a1a4-4444-993e-99179bbba586" />
+
+Determining the bottom 10 customers by Sales
+
+SELECT Top 10 customer_name, SUM(sales) AS total_sales
+FROM [KMS Sql Case Study]
+GROUP BY customer_name
+ORDER BY total_sales ASC
+
+
 <img width="945" height="404" alt="Image7" src="https://github.com/user-attachments/assets/093beffb-ec85-4506-bac2-1eeb20009915" />
 
 
