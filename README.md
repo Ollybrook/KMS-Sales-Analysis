@@ -122,10 +122,19 @@ What are the Top 3 and Bottom 3 regions in terms of sales?
                 Group By Product_Category
                 Order By TotalSales Desc
 
+ The Top 3 Highest Sales Products are; Technology, Furniture and Office Supplies
 
 
 
 
+
+ 
+
+
+
+
+
+![Uploading Image4.png…]()
 
 
 
