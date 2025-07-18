@@ -113,6 +113,10 @@ The product category with the highest sales is Technology
 <img width="938" height="404" alt="Image3" src="https://github.com/user-attachments/assets/b347703c-4dea-448d-9330-4f1943e728b8" />
 
 
+What are the Top 3 and Bottom 3 regions in terms of sales?
+
+
+
 
     
 
