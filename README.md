@@ -163,6 +163,11 @@ Determining the Total sales of appliances in Ontario
 
 
 
+ 
+
+
+![Uploading Image6.png…]()
+
 
 
 
