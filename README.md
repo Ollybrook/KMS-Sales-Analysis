@@ -282,3 +282,10 @@ Top 10 Small Business Customer
           WHERE Customer_Segment = 'Small Business'
           GROUP BY Customer_Name
           ORDER BY Total_sales DESC
+
+
+
+
+
+          
+<img width="948" height="403" alt="Image13" src="https://github.com/user-attachments/assets/037e4310-fda9-4b66-9fe5-50f7795ea235" />
