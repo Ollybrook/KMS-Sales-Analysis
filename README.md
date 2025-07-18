@@ -226,9 +226,13 @@ Determining the Highest shipping cost by shipping method
       From [KMS Sql Case Study]
       Order by Shipping_Cost Desc
 
+
+      
+
   
 
 
+<img width="952" height="397" alt="Image9" src="https://github.com/user-attachments/assets/65b27408-a833-4cc4-8102-53d0a0f9eaf3" />
 
     
 
