@@ -265,3 +265,10 @@ Small Business Customer
           WHERE Customer_Segment = 'Small Business'
           GROUP BY Customer_Name
           ORDER BY Total_sales DESC
+
+
+
+
+
+          
+<img width="956" height="402" alt="Image11" src="https://github.com/user-attachments/assets/8cb9264e-685d-4c9a-a9b1-d063af209162" />
