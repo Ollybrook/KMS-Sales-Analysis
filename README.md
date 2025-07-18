@@ -204,6 +204,10 @@ To increase revenue from its ten least active customers, KMS should focus on per
 
 Determining the Highest shipping cost by shipping method
 
+      Select Ship_Mode, Shipping_Cost
+      From [KMS Sql Case Study]
+      Order by Shipping_Cost Desc
+
 
 
 
