@@ -94,6 +94,11 @@ The following Queries wrere used in Extracting the above KPIs
 
 Which product category had the highest sales?
 
+              Select top 1 Product_Category, Sum(Sales) As TotalSales
+              From [KMS Sql Case Study]
+              Group By Product_Category
+              Order By TotalSales Desc
+
 
 
 
