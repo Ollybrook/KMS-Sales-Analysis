@@ -256,3 +256,5 @@ Determining the Highest shipping cost by shipping method
 
 
 Small Business Customer with the highest Sales
+
+Small Business Customer
