@@ -169,6 +169,9 @@ Determining the Total sales of appliances in Ontario
 ![Uploading Image6.png…]()
 
 
+Determining the bottom 10 customers by Sales
+
+
 
 
 
