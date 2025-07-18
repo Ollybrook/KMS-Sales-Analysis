@@ -25,8 +25,11 @@ As stated above, the data for this analysis is gotten from Digital SkillUp Afric
 Data Transformation/Loading
 The Data was transformed using SQL Server, changing inappropriate data types (converting Date from Strings back to Date and changing Order ID from Smallint to Int) due to the large volume of data and also replacing missing Values in Profit_Base_Margin Colum, Proft Column and Unit_Price Colum using queries.
 
+Checking for null values in "PROFIT, PRODUCT BASE MARGIN and UNIT PRICE COLUMNS"
+
 **Analysis Tasks & Business Questions Addressed (Applying SQL Skills from DSA Data Analysis class):**
 **Case Scenario I:**
+
 Which product category had the highest sales?
 
 
