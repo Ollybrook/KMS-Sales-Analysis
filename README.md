@@ -17,6 +17,8 @@ Dataset Description
 **Content:** Contains information on orders, products (e.g., category), customers (e.g., segment), regions, sales figures, shipping costs, and order priority.
 Analysis Tasks Performed (Case Scenarios)
 
+Etl Process
+
 **Analysis Tasks & Business Questions Addressed (Applying SQL Skills from DSA Data Analysis class):**
 **Case Scenario I:**
 Which product category had the highest sales?
