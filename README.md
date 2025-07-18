@@ -31,10 +31,9 @@ Checking for null values in "PROFIT, PRODUCT BASE MARGIN and UNIT PRICE COLUMNS"
               Where Product_Base_Margin Is NULL Or Profit is NULL Or
               Unit_Price is NULL
 
-**Analysis Tasks & Business Questions Addressed (Applying SQL Skills from DSA Data Analysis class):**
-**Case Scenario I:**
+  After checking for Null Values in the above Columns, 153 Null Values were discovered in total. 72 from Profit Column, 63 from Profit Base Margin Column and 12 from Unit Price Column.
 
-Which product category had the highest sales?
+
 
 
 
