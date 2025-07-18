@@ -143,6 +143,8 @@ Bottom 3 Region by Sales
             Group By Region
             Order By TotalSales Asc
 
+ The bottom 3 Region by sales are; Nunavut, Northwest Territories and Yukon, with Nunavut having the lowest.
+
 
 
 
