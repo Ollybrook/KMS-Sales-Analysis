@@ -51,6 +51,15 @@ Replacing the Null Values with Mean
               Set Product_Base_Margin = 0.51
               where Product_Base_Margin is NULL
 
+ Analysis Tasks Performed (Case Scenarios)
+
+ **Analysis Tasks & Business Questions Addressed (Applying SQL Skills from DSA Data Analysis class):**
+
+ 
+
+
+              
+
 
 
 
