@@ -199,6 +199,11 @@ Determining the bottom 10 customers by Sales
 
 
 
+To increase revenue from its ten least active customers, KMS should focus on personalized engagement strategies. Sending tailored email offers featuring special discounts or product bundles could help revive customer interest. Introducing loyalty programs or time-sensitive deals may also drive repeat business. By reviewing past purchase histories, KMS can suggest relevant products and identify reasons for low engagement through brief customer surveys. Offering more flexible payment and delivery options might further support customer retention. Through consistent, customized outreach and well-planned incentives, KMS can steadily grow these customers' value and strengthen loyalty across its entire customer base.
+
+
+
+
 
 
 
