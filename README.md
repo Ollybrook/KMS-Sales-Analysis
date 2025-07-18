@@ -232,7 +232,10 @@ Determining the Highest shipping cost by shipping method
   
 
 
-<img width="952" height="397" alt="Image9" src="https://github.com/user-attachments/assets/65b27408-a833-4cc4-8102-53d0a0f9eaf3" />
+<img width="952" height="397" alt="Image9" src="https://github.com/user-attachments/assets/65b27408-a833-4cc4-8102-53d0a0f9eaf3" 
+
+
+  The Most valuable Customers and the product or Services there purchase
 
     
 
