@@ -115,6 +115,11 @@ The product category with the highest sales is Technology
 
 What are the Top 3 and Bottom 3 regions in terms of sales?
 
+Select top 3 Product_Category, Sum(Sales) As TotalSales
+From [KMS Sql Case Study]
+Group By Product_Category
+Order By TotalSales Desc
+
 
 
 
