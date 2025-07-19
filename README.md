@@ -406,3 +406,9 @@ Joining the two tables (KMS Sql Case Study and Order_Status) to determine which 
 
             
 <img width="949" height="427" alt="Image 18" src="https://github.com/user-attachments/assets/3653d706-021a-4b1a-9e5f-f6ff65daaf87" />
+
+
+
+
+
+If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
