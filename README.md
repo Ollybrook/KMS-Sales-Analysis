@@ -331,7 +331,7 @@ Top 1
           Order By Total_Orders Desc
 
 
-           Most Profitable Consumer Customer
+           
 
 
 
@@ -342,6 +342,9 @@ Top 1
           
 
 <img width="958" height="404" alt="Image 15" src="https://github.com/user-attachments/assets/fdb69e84-b6fb-438c-9e75-9da5408bf126" />
+
+
+ Most Profitable Consumer Customer
 
 
 
