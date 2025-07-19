@@ -365,3 +365,9 @@ Top 1
 
 
 <img width="960" height="419" alt="Image 16" src="https://github.com/user-attachments/assets/5abed65c-4b78-4299-ab02-2904e2883f15" />
+
+
+
+
+
+5 Most Profitable Consumer Customer
