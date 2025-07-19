@@ -384,3 +384,8 @@ Top 1
 
             
 <img width="958" height="425" alt="Image 17" src="https://github.com/user-attachments/assets/1de7acac-4c4b-4c10-975f-689ee01a102b" />
+
+
+
+
+Customer that returned items, and the segment they belong to
