@@ -392,3 +392,10 @@ Customer that returned items, and the segment they belong to
 
 
 Joining the two tables (KMS Sql Case Study and Order_Status) to determine which customer returned items and from which Segment.
+
+
+            SELECT DISTINCT [KMS Sql Case Study].customer_name, [KMS Sql Case Study].customer_segment
+            FROM [KMS Sql Case Study]
+            JOIN Order_Status 
+            ON [KMS Sql Case Study].Order_ID = Order_Status.Order_ID
+            WHERE [Status] = 'Returned'
