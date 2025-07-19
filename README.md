@@ -433,3 +433,9 @@ If the delivery truck is the most economical but the slowest shipping method and
 
             
 <img width="947" height="423" alt="Image 19" src="https://github.com/user-attachments/assets/c85319fd-ea08-4322-8ce7-2147a4825792" />
+
+
+
+
+
+An analysis of KMS’s shipping costs in relation to order priority reveals a lack of alignment between the company’s shipping methods and the urgency of its orders. Express Air—the fastest and most expensive option—was used not only for Critical and High priority orders but also for Low and unspecified ones, leading to unnecessary costs. Conversely, Delivery Truck, the slowest and most economical method, was sometimes chosen for Critical orders, risking delays in urgent deliveries. Although Regular Air was more evenly distributed across priorities, the overall pattern indicates the absence of a structured shipping policy based on order urgency. To enhance efficiency, Express Air should be reserved strictly for high-priority shipments, while Delivery Truck should be designated for low-priority deliveries. By aligning shipping methods with order urgency, KMS can cut costs significantly without affecting service quality. Implementing a rules-based shipping strategy would streamline logistics operations and boost overall profitability.
