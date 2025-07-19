@@ -394,6 +394,9 @@ Customer that returned items, and the segment they belong to
 Joining the two tables (KMS Sql Case Study and Order_Status) to determine which customer returned items and from which Segment.
 
 
+From the analysis, 419 Customers Actually returned their Goods.
+
+
             SELECT DISTINCT [KMS Sql Case Study].customer_name, [KMS Sql Case Study].customer_segment
             FROM [KMS Sql Case Study]
             JOIN Order_Status 
