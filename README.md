@@ -389,3 +389,6 @@ Top 1
 
 
 Customer that returned items, and the segment they belong to
+
+
+Joining the two tables (KMS Sql Case Study and Order_Status) to determine which customer returned items and from which Segment.
