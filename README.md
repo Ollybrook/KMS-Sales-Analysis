@@ -399,3 +399,10 @@ Joining the two tables (KMS Sql Case Study and Order_Status) to determine which 
             JOIN Order_Status 
             ON [KMS Sql Case Study].Order_ID = Order_Status.Order_ID
             WHERE [Status] = 'Returned'
+
+
+
+
+
+            
+<img width="949" height="427" alt="Image 18" src="https://github.com/user-attachments/assets/3653d706-021a-4b1a-9e5f-f6ff65daaf87" />
