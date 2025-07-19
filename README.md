@@ -426,3 +426,10 @@ If the delivery truck is the most economical but the slowest shipping method and
             FROM [KMS Sql Case Study]
             GROUP BY Order_Priority, Ship_Mode
             ORDER BY Order_Priority, Ship_Mode
+
+
+
+
+
+            
+<img width="947" height="423" alt="Image 19" src="https://github.com/user-attachments/assets/c85319fd-ea08-4322-8ce7-2147a4825792" />
