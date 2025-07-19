@@ -347,6 +347,12 @@ Top 1
  Most Profitable Consumer Customer
 
 
+            SELECT Top 1 Customer_Name, SUM(Profit) AS total_profit
+            FROM [KMS Sql Case Study]
+            WHERE Customer_Segment = 'Consumer'
+            GROUP BY Customer_Name
+            ORDER BY total_profit DESC
+
 
          
 
